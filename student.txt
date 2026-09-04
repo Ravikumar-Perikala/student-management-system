@@ -1,0 +1,3 @@
+201,ravi,python,20000
+202,manu,java,300000
+203,chinnu,django,400000
